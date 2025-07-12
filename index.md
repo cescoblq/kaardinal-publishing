@@ -7,7 +7,7 @@ title: Accueil — Kaardinal Publishing
   <img src="assets/logo.png" alt="Kaardinal Publishing" style="max-width:200px;">
 </p>
 
-# Bienvenue chez Kaardinal Publishing
+# Kaardinal Publishing
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
