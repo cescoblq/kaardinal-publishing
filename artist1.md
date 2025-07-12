@@ -1,11 +1,3 @@
-
----
-
-### 4. Pages artistes (`artist1.md` à `artist10.md`)
-
-Voici le modèle que tu peux dupliquer et adapter pour chaque artiste :
-
-```markdown
 ---
 title: Artist 1 — Kaardinal Publishing
 ---
