@@ -2,7 +2,6 @@
 title: Accueil — Kaardinal Publishing
 ---
 
-<!-- STYLES MODERNES -->
 <style>
   body {
     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
@@ -32,12 +31,22 @@ title: Accueil — Kaardinal Publishing
     text-decoration: underline;
   }
 
+  hr {
+    border: none;
+    border-top: 2px solid #eee;
+    margin: 3em 0;
+  }
+
   .gallery {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 40px;
     justify-content: center;
     margin: 2em auto;
+  }
+
+  .gallery-item {
+    text-align: center;
   }
 
   .gallery img {
@@ -48,6 +57,12 @@ title: Accueil — Kaardinal Publishing
     margin: auto;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  .gallery .caption {
+    margin-top: 0.5em;
+    font-weight: 500;
+    font-size: 1.1em;
   }
 
   .gallery-partners {
@@ -106,6 +121,47 @@ title: Accueil — Kaardinal Publishing
   form button:hover {
     background-color: #005fa3;
   }
+
+  footer {
+    background-color: #111;
+    color: #fff;
+    padding: 2em 1em;
+    margin-top: 4em;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .footer-logo img {
+    max-width: 150px;
+    height: auto;
+  }
+
+  .footer-info {
+    font-size: 0.9em;
+    line-height: 1.4em;
+    text-align: right;
+  }
+
+  @media(max-width: 600px) {
+    .gallery {
+      grid-template-columns: 1fr;
+    }
+    .footer-container {
+      flex-direction: column;
+      gap: 1em;
+      text-align: center;
+    }
+    .footer-info {
+      text-align: center;
+    }
+  }
 </style>
 
 <!-- Logo -->
@@ -123,18 +179,40 @@ title: Accueil — Kaardinal Publishing
   <a href="contacts.md">Contacts</a>
 </p>
 
-<!-- Galerie Artistes -->
+---
+
+## 🎵 Our Artists
+
 <div class="gallery">
-  <a href="artist1.md"><img src="assets/images/ablaye-cissoko.jpg" alt="Ablaye Cissoko"></a>
-  <a href="artist2.md"><img src="assets/images/moonlight-benjamin.jpg" alt="Moonlight Benjamin"></a>
-  <a href="artist3.md"><img src="assets/images/selin-sumbultepe.jpg" alt="Selin Sümbültepe"></a>
-  <a href="artist4.md"><img src="assets/images/cyrille-brotto.jpg" alt="Cyrille Brotto"></a>
-  <a href="artist5.md"><img src="assets/images/lorke-lorke.jpg" alt="Lorkê Lorkê"></a>
-  <a href="artist6.md"><img src="assets/images/vide.jpg" alt="Bientôt disponible"></a>
+  <div class="gallery-item">
+    <a href="artist1.md"><img src="assets/images/ablaye-cissoko.jpg" alt="Ablaye Cissoko"></a>
+    <div class="caption">Ablaye Cissoko</div>
+  </div>
+  <div class="gallery-item">
+    <a href="artist2.md"><img src="assets/images/moonlight-benjamin.jpg" alt="Moonlight Benjamin"></a>
+    <div class="caption">Moonlight Benjamin</div>
+  </div>
+  <div class="gallery-item">
+    <a href="artist3.md"><img src="assets/images/selin-sumbultepe.jpg" alt="Selin Sümbültepe"></a>
+    <div class="caption">Selin Sümbültepe</div>
+  </div>
+  <div class="gallery-item">
+    <a href="artist4.md"><img src="assets/images/cyrille-brotto.jpg" alt="Cyrille Brotto"></a>
+    <div class="caption">Cyrille Brotto</div>
+  </div>
+  <div class="gallery-item">
+    <a href="artist5.md"><img src="assets/images/lorke-lorke.jpg" alt="Lorkê Lorkê"></a>
+    <div class="caption">Lorkê Lorkê</div>
+  </div>
+  <div class="gallery-item">
+    <a href="artist6.md"><img src="assets/images/vide.jpg" alt=""></a>
+    <div class="caption">À venir</div>
+  </div>
 </div>
 
-<!-- Galerie Partenaires -->
-<h2>Partners (publishing / booking)</h2>
+---
+
+## 🤝 Partners (Publishing / Booking)
 
 <div class="gallery-partners">
   <a href="#"><img src="assets/images/logo-musigamy.png" alt="Musigamy"></a>
@@ -142,8 +220,9 @@ title: Accueil — Kaardinal Publishing
   <a href="#"><img src="assets/images/logo-ma-case.png" alt="Ma Case Prod"></a>
 </div>
 
-<!-- Formulaire de contact -->
-<h2>Contact Us</h2>
+---
+
+## 📬 Contact Us
 
 <form action="https://formsubmit.co/contact@kaardinal-publishing.com" method="POST">
   <input type="hidden" name="_captcha" value="false">
@@ -154,3 +233,17 @@ title: Accueil — Kaardinal Publishing
   <textarea name="message" placeholder="Your message..." rows="6" required></textarea>
   <button type="submit">Send</button>
 </form>
+
+<footer>
+  <div class="footer-container">
+    <div class="footer-logo">
+      <img src="assets/logo.png" alt="Kaardinal Publishing logo">
+    </div>
+    <div class="footer-info">
+      <strong>Kaardinal Publishing</strong><br>
+      123 Rue Fictive, 75001 Paris<br>
+      France<br>
+      contact@kaardinal-publishing.com
+    </div>
+  </div>
+</footer>
