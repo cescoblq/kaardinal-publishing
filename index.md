@@ -22,7 +22,7 @@ Independant Music Publisher - France | Editeur de musque indépendant - France
   <a href="artist1.md"><img src="assets/images/ablaye-cissoko.jpg" alt="Ablaye Cissoko"></a>
   <a href="artist2.md"><img src="assets/images/moonlight-benjamin.jpg" alt="Moonlight Benjamin"></a>
   <!-- Ligne 2 -->
-  <a href="artist3.md"><img src="assets/images/selin-sumbültepe.jpg" alt="Selin Sümbültepe"></a>
+  <a href="artist3.md"><img src="assets/images/selin-sumbultepe.jpg" alt="Selin Sümbültepe"></a>
   <a href="artist4.md"><img src="assets/images/cyrille-brotto.jpg" alt="Cyrille Brotto"></a>
   <!-- Ligne 3 -->
   <a href="artist5.md"><img src="assets/images/lorke-lorke.jpg" alt="Lorkê Lorkê"></a>
