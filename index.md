@@ -9,7 +9,7 @@ title: Accueil — Kaardinal Publishing
 
 # Kaardinal Publishing
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Independant Music Publisher - France | Editeur de musque indépendant - France
 
 <p style="text-align:center; margin: 1.5em;">
   <a href="about.md">About</a> |
@@ -19,20 +19,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 <!-- Galerie 2×5 -->
 <div class="gallery">
   <!-- Ligne 1 -->
-  <a href="artist1.md"><img src="assets/images/artist1.jpg" alt="Artist 1"></a>
-  <a href="artist2.md"><img src="assets/images/artist2.jpg" alt="Artist 2"></a>
+  <a href="artist1.md"><img src="assets/images/ablaye-cissoko.jpg" alt="Ablaye Cissoko"></a>
+  <a href="artist2.md"><img src="assets/images/moonlight-benjamin.jpg" alt="Moonlight Benjamin"></a>
   <!-- Ligne 2 -->
-  <a href="artist3.md"><img src="assets/images/artist3.jpg" alt="Artist 3"></a>
-  <a href="artist4.md"><img src="assets/images/artist4.jpg" alt="Artist 4"></a>
+  <a href="artist3.md"><img src="assets/images/selin-sumbültepe.jpg" alt="Selin Sümbültepe"></a>
+  <a href="artist4.md"><img src="assets/images/cyrille-brotto.jpg" alt="Cyrille Brotto"></a>
   <!-- Ligne 3 -->
-  <a href="artist5.md"><img src="assets/images/artist5.jpg" alt="Artist 5"></a>
-  <a href="artist6.md"><img src="assets/images/artist6.jpg" alt="Artist 6"></a>
-  <!-- Ligne 4 -->
-  <a href="artist7.md"><img src="assets/images/artist7.jpg" alt="Artist 7"></a>
-  <a href="artist8.md"><img src="assets/images/artist8.jpg" alt="Artist 8"></a>
-  <!-- Ligne 5 -->
-  <a href="artist9.md"><img src="assets/images/artist9.jpg" alt="Artist 9"></a>
-  <a href="artist10.md"><img src="assets/images/artist10.jpg" alt="Artist 10"></a>
+  <a href="artist5.md"><img src="assets/images/lorke-lorke.jpg" alt="Lorkê Lorkê"></a>
+  <a href="artist6.md"><img src="assets/images/vide.jpg" alt=""></a>  
 </div>
 
 <style>
