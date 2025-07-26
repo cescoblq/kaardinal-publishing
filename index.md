@@ -3,7 +3,20 @@ title: Accueil — Kaardinal Publishing
 ---
 
 <style>
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    height: 100%;
+  }
+  
   body {
+    margin: 0;
+    padding: 0;
     font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
     max-width: 960px;
     margin: 0 auto;
@@ -292,10 +305,10 @@ title: Accueil — Kaardinal Publishing
     </div>   
   </div>
   
-  <div class="gallery-item">
+  <!--<div class="gallery-item">
     <a href="artist6.md"><img src="assets/images/vide.jpg" alt=""></a>
     <div class="caption">À venir</div>  
-  </div>
+  </div>-->
 </div>
 
 ---
