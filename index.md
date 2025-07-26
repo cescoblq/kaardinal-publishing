@@ -250,7 +250,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-      Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+      Master of the kora and one of the purest West African voice, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.  1M monthly streams, and wordlwide sold-out tours every year?
     </div>   
   </div>
   
@@ -264,8 +264,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
      <div class="artist-description">
-        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
-     </div>   
+Vodou Garage / The Punky Voodoo Queen / The Caribbean Patti Smith | Rebellious Caribbean garage blues-rock from Haitian voodoo priestess | A primal scream, a mystifying and mystical musical mixture, almost shamanic, an incantation of liberation in the midst of raging guitars and propulsive drumming.</div>   
   </div>
   
   <div class="gallery-item">
@@ -278,8 +277,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
-    </div>   
+Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s compositions take us on a retro-futuristic whirlwind, oscillating between Middle Eastern traditions and electric grooves.    </div>   
   </div>
   
   <div class="gallery-item">
@@ -292,8 +290,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
      <div class="artist-description">
-        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
-     </div>   
+One of the top3 diatonic accordion master players in Europe, blending tradition and modern tune.     </div>   
   </div>
   
   <div class="gallery-item">
@@ -306,8 +303,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
-    </div>   
+Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s compositions take us on a retro-futuristic whirlwind, oscillating between Middle Eastern traditions and electric grooves.    </div>   
   </div>
   
   <!--<div class="gallery-item">
