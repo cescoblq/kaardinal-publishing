@@ -122,12 +122,20 @@ title: Accueil — Kaardinal Publishing
     background-color: #005fa3;
   }
 
+
   footer {
     background-color: #111;
     color: #fff;
     padding: 2em 1em;
     margin-top: 4em;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
   }
+
 
   .footer-container {
     display: flex;
@@ -148,6 +156,26 @@ title: Accueil — Kaardinal Publishing
     line-height: 1.4em;
     text-align: right;
   }
+
+  .social-links {
+    margin-top: 0.5em;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+  }
+  
+  .social-links img {
+    width: 24px;
+    height: 24px;
+    opacity: 0.7;
+    transition: 0.2s;
+  }
+  
+  .social-links img:hover {
+    opacity: 1;
+    transform: scale(1.1);
+  }
+
 
   @media(max-width: 600px) {
     .gallery {
@@ -187,26 +215,76 @@ title: Accueil — Kaardinal Publishing
   <div class="gallery-item">
     <a href="artist1.md"><img src="assets/images/ablaye-cissoko.jpg" alt="Ablaye Cissoko"></a>
     <div class="caption">Ablaye Cissoko</div>
+    <div class="social-links">
+      <a href="https://instagram.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"></a>
+      <a href="https://open.spotify.com/artist/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/spotify/000000" alt="Spotify"></a>
+      <a href="https://youtube.com/channel/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/youtube/000000" alt="YouTube"></a>
+      <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
+    </div>
+    <div class="artist-description">
+      Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+    </div>   
   </div>
+  
   <div class="gallery-item">
     <a href="artist2.md"><img src="assets/images/moonlight-benjamin.jpg" alt="Moonlight Benjamin"></a>
     <div class="caption">Moonlight Benjamin</div>
+   <div class="social-links">
+      <a href="https://instagram.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"></a>
+      <a href="https://open.spotify.com/artist/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/spotify/000000" alt="Spotify"></a>
+      <a href="https://youtube.com/channel/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/youtube/000000" alt="YouTube"></a>
+      <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
+    </div>
+     <div class="artist-description">
+        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+     </div>   
   </div>
+  
   <div class="gallery-item">
     <a href="artist3.md"><img src="assets/images/selin-sumbultepe.jpg" alt="Selin Sümbültepe"></a>
     <div class="caption">Selin Sümbültepe</div>
+    <div class="social-links">
+      <a href="https://instagram.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"></a>
+      <a href="https://open.spotify.com/artist/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/spotify/000000" alt="Spotify"></a>
+      <a href="https://youtube.com/channel/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/youtube/000000" alt="YouTube"></a>
+      <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
+    </div>
+    <div class="artist-description">
+        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+    </div>   
   </div>
+  
   <div class="gallery-item">
     <a href="artist4.md"><img src="assets/images/cyrille-brotto.jpg" alt="Cyrille Brotto"></a>
     <div class="caption">Cyrille Brotto</div>
+    <div class="social-links">
+      <a href="https://instagram.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"></a>
+      <a href="https://open.spotify.com/artist/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/spotify/000000" alt="Spotify"></a>
+      <a href="https://youtube.com/channel/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/youtube/000000" alt="YouTube"></a>
+      <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
+    </div>
+     <div class="artist-description">
+        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+     </div>   
   </div>
+  
   <div class="gallery-item">
     <a href="artist5.md"><img src="assets/images/lorke-lorke.jpg" alt="Lorkê Lorkê"></a>
     <div class="caption">Lorkê Lorkê</div>
+    <div class="social-links">
+      <a href="https://instagram.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram"></a>
+      <a href="https://open.spotify.com/artist/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/spotify/000000" alt="Spotify"></a>
+      <a href="https://youtube.com/channel/xxxxx" target="_blank"><img src="https://cdn.simpleicons.org/youtube/000000" alt="YouTube"></a>
+      <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
+    </div>
+    <div class="artist-description">
+        Master of the kora, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.
+    </div>   
   </div>
+  
   <div class="gallery-item">
     <a href="artist6.md"><img src="assets/images/vide.jpg" alt=""></a>
-    <div class="caption">À venir</div>
+    <div class="caption">À venir</div>  
   </div>
 </div>
 
