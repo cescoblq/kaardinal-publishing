@@ -162,6 +162,8 @@ title: Accueil — Kaardinal Publishing
   .footer-logo img {
     max-width: 150px;
     height: auto;
+     filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.5));
+
   }
 
   .footer-info {
