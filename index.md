@@ -204,7 +204,7 @@ title: Accueil — Kaardinal Publishing
 
 <!-- Logo -->
 <p style="text-align:center;">
-  <img src="assets/logo.png" alt="Kaardinal Publishing" style="max-width:200px;">
+  <img src="assets/logo-kaardinal-web-black-transparent.png" alt="Kaardinal Publishing Logo" style="max-width:200px;">
 </p>
 
 # Kaardinal Publishing
@@ -325,13 +325,13 @@ title: Accueil — Kaardinal Publishing
 <footer>
   <div class="footer-container">
     <div class="footer-logo">
-      <img src="assets/logo.png" alt="Kaardinal Publishing logo">
+      <img src="assets/logo-kaardinal-web-white-transparent.png" alt="Kaardinal Publishing logo">
     </div>
     <div class="footer-info">
       <strong>Kaardinal Publishing</strong><br>
       123 Rue Fictive, 75001 Paris<br>
       France<br>
-      contact@kaardinal-publishing.com
+      SIRET : 
     </div>
   </div>
 </footer>
