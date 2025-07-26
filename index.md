@@ -13,7 +13,12 @@ title: Accueil — Kaardinal Publishing
   html, body {
     height: 100%;
   }
-  
+
+ header, h1.title, .site-title {
+  display: none !important;  /*pour effacer le titre rajouté par Jekyl et Yaml */
+ }
+
+ 
   body {
     margin: 0;
     padding: 0;
@@ -340,13 +345,12 @@ title: Accueil — Kaardinal Publishing
 <footer>
   <div class="footer-container">
     <div class="footer-logo">
-      <img src="assets/images/logo-kaardinal-web-white-transparent.png" alt="Kaardinal Publishing logo">
+      <img src="assets/images/logo-kaardinal-web-footer.jpg" alt="Kaardinal Publishing logo">
     </div>
     <div class="footer-info">
-      <strong>Kaardinal Publishing</strong><br>
-      123 Rue Fictive, 75001 Paris<br>
-      France<br>
-      SIRET : 
+      <strong>SASU Kaardinal Publishing</strong><br>
+      60 rue François 1er - 75008 Paris - France<br>
+      SIREN : 944682137
     </div>
   </div>
 </footer>
