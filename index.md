@@ -176,6 +176,16 @@ title: Accueil — Kaardinal Publishing
     transform: scale(1.1);
   }
 
+  .artist-description {
+    margin-top: 1.2em;        /* ↑ plus d'espace avec les logos */
+    font-size: 0.95em;
+    color: #444;
+    line-height: 1.5;
+    padding: 0 1em;
+    text-align: justify;      /* ← texte justifié */
+  }
+
+
 
   @media(max-width: 600px) {
     .gallery {
