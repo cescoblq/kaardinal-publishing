@@ -250,7 +250,7 @@ title: Accueil — Kaardinal Publishing
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-      Master of the kora and one of the purest West African voice, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.  1M monthly streams, and wordlwide sold-out tours every year?
+      Master of the kora and one of the purest West African voice, Ablaye Cissoko blends Senegalese tradition with modern elegance in a deeply poetic and spiritual sound.  1M monthly streams, and wordlwide sold-out tours every year.
     </div>   
   </div>
   
@@ -277,7 +277,8 @@ Vodou Garage / The Punky Voodoo Queen / The Caribbean Patti Smith | Rebellious C
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s compositions take us on a retro-futuristic whirlwind, oscillating between Middle Eastern traditions and electric grooves.    </div>   
+Inspired by Fairuz, Yasmin Hamdan or Emel Mathlouthi, Selin Sümbültepe is the new face of Turkish world-pop, blending enchanting oriental melodies, traditional rhythms, and modern grooves. A fanbase of over 80,000, and collaborations with renowned producers such as Zeid Hamdan.
+    </div>   
   </div>
   
   <div class="gallery-item">
@@ -290,7 +291,8 @@ Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s 
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
      <div class="artist-description">
-One of the top3 diatonic accordion master players in Europe, blending tradition and modern tune.     </div>   
+One of the top3 diatonic accordion master players in Europe, blending tradition and modern tune.    
+     </div>   
   </div>
   
   <div class="gallery-item">
@@ -303,7 +305,8 @@ One of the top3 diatonic accordion master players in Europe, blending tradition 
       <a href="https://facebook.com/ablayecissoko" target="_blank"><img src="https://cdn.simpleicons.org/facebook/000000" alt="Facebook"></a>
     </div>
     <div class="artist-description">
-Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s compositions take us on a retro-futuristic whirlwind, oscillating between Middle Eastern traditions and electric grooves.    </div>   
+Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s compositions take us on a retro-futuristic whirlwind, oscillating between Middle Eastern traditions and electric grooves.    
+    </div>   
   </div>
   
   <!--<div class="gallery-item">
@@ -339,7 +342,7 @@ Somewhere between Altın Gün, Acid Arab, and Omar Souleyman, Lorkê Lorkê’s 
 <footer>
   <div class="footer-container">
     <div class="footer-logo">
-      <img src="assets/images/logo-kaardinal-web-footer.jpg" alt="Kaardinal Publishing logo">
+      <img src="assets/images/logo-kaardinal-web-footer.png" alt="Kaardinal Publishing logo">
     </div>
     <div class="footer-info">
       <strong>SASU Kaardinal Publishing</strong><br>
